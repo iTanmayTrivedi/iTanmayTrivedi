@@ -1,9 +1,11 @@
-[README (2).md](https://github.com/user-attachments/files/30152166/README.2.md)
+[README.md](https://github.com/user-attachments/files/30152203/README.md)
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=E94E1B&center=true&vCenter=true&width=600&lines=Tanmay+Trivedi;トリヴェディ+タンマイ;Full-Stack+Developer;Building+for+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+# こんにちは、Tanmay です 👋
 
-### フルスタック開発者 | 日本を目指して 🇮🇳 → 🇯🇵
+### Full-Stack Developer | フルスタック開発者 | 日本を目指して 🇮🇳 → 🇯🇵
+
+![Profile Views](https://komarev.com/ghpvc/?username=iTanmayTrivedi&color=E94E1B&style=flat)
 
 </div>
 
