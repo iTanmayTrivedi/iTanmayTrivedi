@@ -2,10 +2,9 @@
 
 # ⛩️ ようこそ！ Welcome to Tanmay's Domain ⛩️
 
-<!-- STYLISH ANIME BANNER WITH AESTHETIC GRADIENT & CODES -->
-<img src="https://vercel.app" width="100%" alt="Anime Header Banner" style="border-radius: 8px;" />
+<!-- STYLISH ANIME BANNER WITH AESTHETIC GRADIENT -->
+<img src="https://vercel.app" width="100%" alt="Anime Header Banner" />
 
-<br/>
 <br/>
 
 ✨ *“The limits of my language mean the limits of my world.”* ✨
@@ -14,7 +13,7 @@
 
 <br/>
 
-<!-- REPAIRED VISITOR COUNTER USING THE OFFICIAL KOMAREV API -->
+<!-- WORKING VISITOR COUNTER -->
 <img src="https://komarev.com" alt="Domain Visitors Tracker" />
 
 </div>
@@ -41,24 +40,33 @@ identity:
 
 ### 🛠️ Ninja Tools & Jutsu (Tech Stack)
 
-<!-- FIXED THE SKILL ICONS INTEGRATION SPECIFYING ACTIVE RUNTIMES -->
+<!-- RELIABLE DETACHED BADGES GRID THAT DOES NOT DEPEND ON SKILLICONS -->
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="My Skills Jutsu Grid" />
-  </a>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 ---
 
 ### 📊 Shinobi Statistics
 
-<!-- REPAIRED GITHUB READ-ME STATS & TOP LANGS USING THE STYLISH DRACULA/TOKYONIGHT CROSS THEME -->
+<!-- INDIVIDUAL BLOCKS TO INSURE INDEPENDENT RENDERING -->
 <p align="center">
   <img height="170" src="https://vercel.app" alt="Tanmay's Stats" />
+</p>
+
+<p align="center">
   <img height="170" src="https://vercel.app" alt="Top Languages Mastered" />
 </p>
 
-<!-- REPAIRED STREAK STATS VIA THE OFFICIAL STREAK HEROKUAPP ENGINE -->
 <p align="center">
   <img src="https://herokuapp.com" alt="Contribution Streak Tracker" />
 </p>
@@ -67,16 +75,15 @@ identity:
 
 ### Bento Box / 🍱 Currently Playing & Watching
 
-<!-- FIXED SHIELDS.IO BADGES WITH ACCURATE LABEL/VALUE AND COLOR PARAMETERS -->
 <p align="left">
-  <img src="https://shields.io" alt="Watching Status" />&nbsp;
+  <img src="https://shields.io" alt="Watching Status" />
   <img src="https://shields.io" alt="Listening Status" />
 </p>
 
 ---
 
-<!-- INTEGRATED AN AUTHENTIC HIGH-QUALITY ANIME PIXEL FOOTER AS AN ANCHOR -->
 <div align="center">
-  <img src="https://giphy.com" width="45%" style="border-radius:6px;" alt="Aesthetic Pixel Art Exit" />
+  <!-- RELIABLE FALLBACK ANIME IMAGE EMBED -->
+  <img src="https://githubusercontent.com" width="50%" alt="Gojo Anime Footer" />
   <p><sub>Sayonara! Made with 💖 and Code.</sub></p>
 </div>
