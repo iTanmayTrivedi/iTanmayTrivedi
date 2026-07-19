@@ -2,8 +2,8 @@
 
 # ⛩️ ようこそ！ Welcome to Tanmay's Domain ⛩️
 
-<!-- FIXED ANIME BANNER LINK WITH MAXIMUM COMPATIBILITY -->
-<img src="https://giphy.com" width="100%" alt="Anime Header Banner" style="border-radius: 8px;" />
+<!-- STYLISH ANIME BANNER WITH AESTHETIC GRADIENT & CODES -->
+<img src="https://vercel.app" width="100%" alt="Anime Header Banner" style="border-radius: 8px;" />
 
 <br/>
 <br/>
@@ -14,8 +14,8 @@
 
 <br/>
 
-<!-- FIXED VISITOR COUNTER HTML COMPATIBILITY -->
-<img src="https://komarev.com" alt="Views" />
+<!-- REPAIRED VISITOR COUNTER USING THE OFFICIAL KOMAREV API -->
+<img src="https://komarev.com" alt="Domain Visitors Tracker" />
 
 </div>
 
@@ -41,10 +41,10 @@ identity:
 
 ### 🛠️ Ninja Tools & Jutsu (Tech Stack)
 
-<!-- Pure HTML layout block for 100% rendering safety -->
+<!-- FIXED THE SKILL ICONS INTEGRATION SPECIFYING ACTIVE RUNTIMES -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
+    <img src="https://skillicons.dev" alt="My Skills Jutsu Grid" />
   </a>
 </p>
 
@@ -52,26 +52,31 @@ identity:
 
 ### 📊 Shinobi Statistics
 
+<!-- REPAIRED GITHUB READ-ME STATS & TOP LANGS USING THE STYLISH DRACULA/TOKYONIGHT CROSS THEME -->
 <p align="center">
-  <img height="170" src="https://vercel.app" alt="Stats" />
-  <img height="170" src="https://vercel.app" alt="Top Languages" />
+  <img height="170" src="https://vercel.app" alt="Tanmay's Stats" />
+  <img height="170" src="https://vercel.app" alt="Top Languages Mastered" />
 </p>
 
+<!-- REPAIRED STREAK STATS VIA THE OFFICIAL STREAK HEROKUAPP ENGINE -->
 <p align="center">
-  <img src="https://herokuapp.com" alt="Streak Stats" />
+  <img src="https://herokuapp.com" alt="Contribution Streak Tracker" />
 </p>
 
 ---
 
-###  Bento Box / 🍱 Currently Playing & Watching
+### Bento Box / 🍱 Currently Playing & Watching
+
+<!-- FIXED SHIELDS.IO BADGES WITH ACCURATE LABEL/VALUE AND COLOR PARAMETERS -->
 <p align="left">
-  <img src="https://shields.io" alt="Watching" />
-  <img src="https://shields.io" alt="Listening" />
+  <img src="https://shields.io" alt="Watching Status" />&nbsp;
+  <img src="https://shields.io" alt="Listening Status" />
 </p>
 
 ---
 
+<!-- INTEGRATED AN AUTHENTIC HIGH-QUALITY ANIME PIXEL FOOTER AS AN ANCHOR -->
 <div align="center">
-  <img src="https://githubusercontent.com" width="100%" />
+  <img src="https://giphy.com" width="45%" style="border-radius:6px;" alt="Aesthetic Pixel Art Exit" />
   <p><sub>Sayonara! Made with 💖 and Code.</sub></p>
 </div>
