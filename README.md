@@ -2,19 +2,11 @@
 
 # ⛩️ ようこそ！ Welcome to Tanmay's Domain ⛩️
 
-<!-- SECURE ALTERNATIVE DYNAMIC GRADIENT HEADER -->
-<img src="https://demolab.com" alt="Aesthetic Dynamic Header" />
-
-<br/>
+### 🌌 FULL-STACK DEVELOPER & ANIME OTAKU 🌌
 
 ✨ *“The limits of my language mean the limits of my world.”* ✨
   
 `Full-Stack Otaku` • `Open Source Ronin` • `Coffee Consumer`
-
-<br/>
-
-<!-- STABLE STATIC BADGE TO DISPLAY PROFILE VISITS -->
-<img src="https://shields.io" alt="Status Tracker" />
 
 </div>
 
@@ -40,42 +32,34 @@ identity:
 
 ### 🛠️ Ninja Tools & Jutsu (Tech Stack)
 
-<!-- IMMUTABLE SHIELDS.IO UTILITY LAYOUT -->
-<p align="left">
-  <img src="https://shields.io" />&nbsp;
-  <img src="https://shields.io" />&nbsp;
-  <img src="https://shields.io" />&nbsp;
-  <img src="https://shields.io" />&nbsp;
-  <img src="https://shields.io" />&nbsp;
-  <img src="https://shields.io" />&nbsp;
-  <img src="https://shields.io" />&nbsp;
-  <img src="https://shields.io" />&nbsp;
-  <img src="https://shields.io" />&nbsp;
-  <img src="https://shields.io" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | `HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `TailwindCSS` |
+| **Backend & Tools** | `Node.js` `Express` `PostgreSQL` `MongoDB` `Git` `Docker` |
 
 ---
 
-### 📊 Shinobi Statistics
+### 📊 Shinobi Combat Metrics
 
-<!-- HIGH-AVAILABILITY LEAN CONTRIB GRAPH MATRIX THAT BPASSES THE DOWNTIME -->
-<p align="center">
-  <img width="100%" src="https://vercel.app" alt="Tanmay's Activity Chart" />
-</p>
+```text
+  [ Contributions / Activity ]
+  ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 100% Active
+  
+  [ Core Jutsus Mastered ]
+  TypeScript  [===================================] 90%
+  React/Next  [=================================] 85%
+  Node.js     [===========================] 70%
+```
 
 ---
 
 ### Bento Box / 🍱 Currently Playing & Watching
 
-<p align="left">
-  <img src="https://shields.io" alt="Watching Status" />&nbsp;
-  <img src="https://shields.io" alt="Listening Status" />
-</p>
+* 🎬 **Watching:** Demon Slayer (Crunchyroll)
+* 🎧 **Listening:** Lo-Fi Anime Beats (Spotify)
 
 ---
 
 <div align="center">
-  <!-- WORKING STABLE FOOTER ART PATH -->
-  <img src="https://githubusercontent.com" width="50%" alt="Gojo Anime Footer" />
-  <p><sub>Sayonara! Made with 💖 and Code.</sub></p>
+  <b>🌸 Sayonara! Made with 💖 and Code. 🌸</b>
 </div>
