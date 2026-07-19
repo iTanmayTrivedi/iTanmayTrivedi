@@ -2,19 +2,20 @@
 
 # ⛩️ ようこそ！ Welcome to Tanmay's Domain ⛩️
 
-<!-- MAIN ANIME BANNER -->
-<img src="https://unsplash.com" width="100%" alt="Anime Header Banner" style="border-radius: 8px;" />
+<!-- FIXED ANIME BANNER LINK WITH MAXIMUM COMPATIBILITY -->
+<img src="https://giphy.com" width="100%" alt="Anime Header Banner" style="border-radius: 8px;" />
 
 <br/>
+<br/>
 
-<!-- STATUS LINE -->
 ✨ *“The limits of my language mean the limits of my world.”* ✨
   
 `Full-Stack Otaku` • `Open Source Ronin` • `Coffee Consumer`
 
-<p align="center">
-  <img src="https://komarev.com🌸%20Visitors&color=ffb7c5&style=flat-square" alt="Views" />
-</p>
+<br/>
+
+<!-- FIXED VISITOR COUNTER HTML COMPATIBILITY -->
+<img src="https://komarev.com" alt="Views" />
 
 </div>
 
@@ -40,7 +41,7 @@ identity:
 
 ### 🛠️ Ninja Tools & Jutsu (Tech Stack)
 
-<!-- Styled in Japanese-esque monochrome dark themes using skillicons -->
+<!-- Pure HTML layout block for 100% rendering safety -->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev" />
@@ -52,26 +53,21 @@ identity:
 ### 📊 Shinobi Statistics
 
 <p align="center">
-  <!-- GitHub Readme Stats Card tweaked with a custom dark theme -->
   <img height="170" src="https://vercel.app" alt="Stats" />
-  <!-- Language Distribution Card -->
   <img height="170" src="https://vercel.app" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats in Sakura/Midnight color schemes -->
   <img src="https://herokuapp.com" alt="Streak Stats" />
 </p>
 
 ---
 
-### 🍱 Currently Playing & Watching
-<div align="left">
-  <p>
-    <img src="https://shields.io" />
-    <img src="https://shields.io" />
-  </p>
-</div>
+###  Bento Box / 🍱 Currently Playing & Watching
+<p align="left">
+  <img src="https://shields.io" alt="Watching" />
+  <img src="https://shields.io" alt="Listening" />
+</p>
 
 ---
 
