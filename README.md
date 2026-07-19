@@ -4,83 +4,76 @@
 
 ```text
  🧭 CORE_SYSTEM: ACTIVE // STABLE   🔮 💜 🌸   📂 USER: iTanmayTrivedi
- ⚔️ DEV_CLASS  : FULL-STACK SHINOBI            🛠️ TERM: NEOVIM V0.10+
- 🌸 LOCATION   : RETRO TOKYO METROPOLIS         🦊 MODE: RONIN // ACCEL
+ ⚔️ DEV_CLASS  : FULL-STACK DEVELOPER          🛠️ TERM: ARCH + NEOVIM
+ 🌸 MAIN FOCUS : 用の美 // BEAUTY IN UTILITY     🦊 TARGET: TOKYO, JAPAN
 ```
 
-` 👑 <span style="color: #bd93f9;">SYSTEM ARCHITECT</span> ` • ` ⚡ <span style="color: #ff79c6;">INTERFACE DESIGNER</span> ` • ` 🍣 <span style="color: #bd93f9;">COGNITIVE OTAKU</span> `
+` 👑 <span style="color: #bd93f9;">FULL-STACK ENGINEER</span> ` • ` ⚡ <span style="color: #ff79c6;">SYSTEM ARCHITECT</span> ` • ` 🍣 <span style="color: #bd93f9;">DESIGN ENGINEER</span> `
 
 <br/>
 
-*“Vision without action is a daydream. Action without vision is a nightmare.” — 古い日本の諺*
+*“Detail is Respect. Software should work flawlessly regardless of language or location.” — 継続的な学習*
 
 </div>
 
 ---
 
-### <span style="color: #ff79c6;">🌸 ─── 【 🎴 CHARACTER DATASHEET 】 ───</span>
+### <span style="color: #ff79c6;">🌸 ─── 【 🎴 CORE IDENTIFICATION 】 ───</span>
 
 ```yaml
 ❯ sudo systemctl status developer-profile.service
 ● developer-profile.service - Tanmay Trivedi Core Architecture
      Loaded: active (running) since Epoch
-     Status: "Architecting type-safe applications & beautiful terminal environments 🚀"
-     Fav_Show: "Demon Slayer (Kimetsu no Yaiba) // Jujutsu Kaisen ⚔️"
-     Aesthetic: "Neon Shinjuku Cyberpunk / Minimalist Kyoto Zen ✨"
+     Status: "Architecting type-safe, bilingual applications & linear-grade web polish 🚀"
+     Location: Kanpur, India (Targeting Tokyo engineering ecosystems)
+     Aesthetic: "Neon Shinjuku Tech / Vermillion Shuiro over Sumi Slate (#1F2937) 🌌"
      Workspace: "Arch Linux + Neovim + Tmux + Ceremonial Matcha 🍵"
 ```
 
-- 🏯 **Current Guild:** Scaling robust engineering systems and high-fidelity user workflows.
-- 🧪 **Alchemy Lab:** Refining full-stack architectures utilizing modern web engines and type-safe systems.
-- 💬 **Chitchat:** Talk to me about React execution lifecycles, database layout strategy, or complex anime arcs.
-- 📂 **Summoning Scroll:** Inspect my digital interactive terminal deck directly at **[tanmaytrivedi.dev](https://tanmaytrivedi.dev)**.
+- 🏯 **The Craft:** Full-Stack Developer deeply committed to clean architecture, tight API design, and token-driven design systems.
+- 🧪 **Engineering Focus:** Scaling zero-dependency web apps with 90+ Lighthouse matrices across performance and security.
+- 💬 **Chitchat:** Talk to me about React execution lifecycles, database isolation layers, or complex anime narrative arcs.
+- 📂 **Summoning Scroll:** Explore my full digital deck and system metrics directly at **[tanmaytrivedi.dev](https://tanmaytrivedi.dev)**.
 
 ---
 
-### <span style="color: #bd93f9;">📜 ─── 【 🗺️ THE SHINOBI JOURNEY // TIMELINE 】 ───</span>
+### <span style="color: #bd93f9;">📜 ─── 【 🗺️ THE DEVELOPMENT JOURNEY 】 ───</span>
 
 ```text
-  [2022] ───► Launched into the digital realm (HTML, CSS, JavaScript core masteries)
-  [2023] ───► Entered the React & Node.js guild; built initial full-stack micro-apps
-  [2024] ───► Level up: TypeScript type-safety & Next.js production server optimization
-  [2025] ───► Containers unlocked (Docker), relational indexing architectures (PostgreSQL)
-  [Now ] ───► Mastering WebGL/Three.js visual animations and highly modular design pipelines
+  2024      ───► Stepped into full-stack ecosystem (Modern JavaScript/TypeScript stacks)
+  2025 MAR  ───► Launched Lynt (Founder & Solo Engineer) — Engineered end-to-end ecosystem
+  2025 JUL  ───► Service Scheduler Pipeline (Real-Time Booking Modules)
+  2025 OCT  ───► Business Management System (Internal Data Dashboards)
+  2025 DEC  ───► E-Commerce Platform & Advanced Relational DB Optimization
+  2026 FEB  ───► Multilingual SaaS Modules & System Monitoring Implementations
 ```
 
 ---
 
-### <span style="color: #ff79c6;">🧬 ─── 【 🏯 ARCHITECTURAL PHILOSOPHIES 】 ───</span>
+### <span style="color: #ff79c6;">⛩️ ─── 【 💎 COMPLETED S-RANK MISSIONS // PROJECTS 】 ───</span>
 
-*   🛠️ **Clean Code Jutsu:** Writing self-documenting code bases. Keeping components small, pure, and strictly typed.
-*   ⚡ **Performance Optimization:** Maximizing Core Web Vitals. Compressing assets, leveraging server-side cache layers, and minimizing main-thread execution.
-*   🌸 **Design Engineering:** Melding structural user experiences with modern aesthetics. Believing software should be highly functional and visually striking.
-
----
-
-### <span style="color: #bd93f9;">⚔️ ─── 【 💮 MASTERED JUTSUS // ARSENAL 】 ───</span>
-
-<table width="100%" style="border-collapse: collapse; border: 2px solid #bd93f9; border-radius: 8px;">
+<!-- CUSTOM PROJECT CARD MATRIX FOR LYNT AND OTHER WORK -->
+<table width="100%" style="border-collapse: collapse; border: 2px solid #ff79c6; border-radius: 8px;">
   <thead>
     <tr style="background-color: #1e1e2e;">
-      <th align="left" style="padding: 12px; border: 1px solid #bd93f9; color: #ff79c6; font-size: 1.1em;">🌌 FRONTEND ENGINEERING ART</th>
-      <th align="left" style="padding: 12px; border: 1px solid #bd93f9; color: #bd93f9; font-size: 1.1em;">⚙️ BACKEND & PROTOCOL ARCHITECTURE</th>
+      <th align="left" style="padding: 15px; border: 1px solid #ff79c6; color: #ff79c6; font-size: 1.1em;">💮 LYNT.APP (FOUNDER & SOLO BUILD)</th>
+      <th align="left" style="padding: 15px; border: 1px solid #ff79c6; color: #bd93f9; font-size: 1.1em;">🌌 SELECTED BILINGUAL ECOSYSTEMS</th>
     </tr>
   </thead>
   <tbody>
     <tr style="background-color: #161622;">
-      <td valign="top" style="padding: 15px; border: 1px solid #bd93f9; color: #cdd6f4; line-height: 1.6;">
-        • <b>Language Matrix:</b> <code>TypeScript (Advanced)</code>, <code>JavaScript (ES6+)</code><br/>
-        • <b>Core Engines:</b> <code>React.js UI Library</code>, <code>Next.js App Router</code><br/>
-        • <b>Styling Grid:</b> <code>TailwindCSS utility</code>, <code>Semantic HTML5 & CSS3</code><br/>
-        • <b>Visual Layers:</b> <code>Framer Motion Animations</code>, <code>Three.js (WebGL) Basics</code><br/>
-        • <b>State Managers:</b> <code>Zustand Store Context</code>, <code>React Context APIs</code>
+      <td valign="top" style="padding: 15px; border: 1px solid #ff79c6; color: #cdd6f4; line-height: 1.6;" width="50%">
+        A production-grade, bilingual decision & execution platform optimizing immigration research pipelines.<br/><br/>
+        • <b>The Metrics:</b> <code>9.5k Lines of TS</code>, <code>Lighthouse 92/98/100/100</code><br/>
+        • <b>The Features:</b> Pixel-accurate JIS B5 Rirekisho Builder, 30+ Visa Model Engine<br/>
+        • <b>The Engine:</b> Deno Edge Functions piping Gemini 2.5 Flash with strict JSON output<br/>
+        • <b>Core Stack:</b> <code>React 18</code>, <code>Vite 5</code>, <code>Supabase Postgres (100% RLS)</code>
       </td>
-      <td valign="top" style="padding: 15px; border: 1px solid #bd93f9; color: #cdd6f4; line-height: 1.6;">
-        • <b>Runtime Layer:</b> <code>Node.js Environment</code>, <code>Express.js App Web Servers</code><br/>
-        • <b>Database Storage:</b> <code>PostgreSQL (Relational SQL)</code>, <code>MongoDB (NoSQL BSON)</code><br/>
-        • <b>Sandbox Engine:</b> <code>Docker Linux Containers</code>, <code>Unix/Linux Command Terminals</code><br/>
-        • <b>Version Control:</b> <code>Distributed Git Systems</code>, <code>GitHub Actions CI/CD workflows</code><br/>
-        • <b>API Strategies:</b> <code>RESTful Routing Layouts</code>, <code>GraphQL Schema Queries</code>
+      <td valign="top" style="padding: 15px; border: 1px solid #ff79c6; color: #cdd6f4; line-height: 1.6;" width="50%">
+        • <b>TeamHub:</b> Bilingual task management platform featuring real-time state synchronization and automated system insights.<br/>
+        • <b>BookFlow:</b> Intelligent reservation planner using Framer Motion spring physics and dual demo environments.<br/>
+        • <b>Kaizen Operations Suite:</b> Japanese corporate workflow module processing Keigo parsing and minutes generation.<br/>
+        • <b>Rakuten Reimagined:</b> E-commerce replication utilizing custom BI tracking and secure role gateways.
       </td>
     </tr>
   </tbody>
@@ -88,78 +81,80 @@
 
 ---
 
-### <span style="color: #ff79c6;">⛩️ ─── 【 💎 ACTIVE MISSIONS // KEY REPOSITORIES 】 ───</span>
+### <span style="color: #bd93f9;">⚔️ ─── 【 💮 MASTERED JUTSUS // ARSENAL 】 ───</span>
 
-<!-- CUSTOM CHRONICLES GRID SYSTEM FEATURING MOCK PROJECT SLOTS -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #444;">
-  <tr style="background-color: #1a1c23;">
-    <td style="padding: 15px; border: 1px solid #444;" width="50%" valign="top">
-      <h4>🌌 <span style="color: #ff79c6;">Project Alpha: Celestial UI</span></h4>
-      <p>A highly customized, modular framework containing components tuned for typing games and developer portfolio dashboards.</p>
-      <code>Next.js</code> • <code>TypeScript</code> • <code>TailwindCSS</code>
-    </td>
-    <td style="padding: 15px; border: 1px solid #444;" width="50%" valign="top">
-      <h4>⚙️ <span style="color: #bd93f9;">Project Beta: Shinobi API Router</span></h4>
-      <p>An ultra-fast caching middleware server designed to optimize queries sent to relational databases with automatic request pooling.</p>
-      <code>Node.js</code> • <code>Express</code> • <code>PostgreSQL</code>
-    </td>
-  </tr>
+<table width="100%" style="border-collapse: collapse; border: 2px solid #bd93f9;">
+  <thead>
+    <tr style="background-color: #1a1c23;">
+      <th align="left" style="padding: 10px; border: 1px solid #bd93f9; color: #ff79c6;">🌐 FRONTEND ARCHITECTURE</th>
+      <th align="left" style="padding: 10px; border: 1px solid #bd93f9; color: #bd93f9;">⚙️ BACKEND & DEV_OPS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" style="padding: 12px; border: 1px solid #bd93f9;">
+        • <b>Languages:</b> <code>TypeScript</code>, <code>JavaScript (ES6+)</code><br/>
+        • <b>Frameworks:</b> <code>React.js</code>, <code>Next.js</code>, <code>Vue.js Framework</code><br/>
+        • <b>Styling/Motion:</b> <code>TailwindCSS</code>, <code>Framer Motion</code>, <code>UI/UX Design Systems</code><br/>
+        • <b>Visual FX:</b> <code>Three.js (WebGL)</code>, <code>GLSL Fragment Shaders</code>
+      </td>
+      <td valign="top" style="padding: 12px; border: 1px solid #bd93f9;">
+        • <b>Environments:</b> <code>Node.js</code>, <code>Python Scripts</code>, <code>Go Lang Runtime</code><br/>
+        • <b>Databases:</b> <code>PostgreSQL (RLS Secure)</code>, <code>MongoDB</code>, <code>Redis Cache</code><br/>
+        • <b>Infrastructure:</b> <code>Docker Isolation</code>, <code>Kubernetes Orchestration</code>, <code>AWS / GCP Cloud</code><br/>
+        • <b>Automation:</b> <code>CI/CD Pipelines</code>, <code>Deno Edge Networking</code>, <code>Terraform IaC</code>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-### <span style="color: #ff79c6;">📊 ─── 【 🏯 ENGINE METRICS // COMBAT STATUS 】 ───</span>
+### <span style="color: #ff79c6;">📊 ─── 【 🏯 ENGINE METRICS // TELEMETRY 】 ───</span>
 
 ```typescript
-// Active diagnostic runtime telemetry streams
+// Verified technical performance limits derived from production codebases
 const telemetry: Object = {
-  execution_activity_rate : "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 100% MAXIMUM",
+  achieved_stats: ["5+ Full-Stack Apps", "10+ REST APIs Built", "20+ Technologies Modeled"],
   runtime_mastery_index: {
-    "TypeScript & Complex Logic" : "=======================================> [92%]",
-    "React & Next.js Ecosystems" : "=====================================>   [88%]",
-    "Node.js Backend Processing"  : "==============================>         [74%]",
-    "Database Matrix / Storage"   : "===========================>            [68%]"
+    "TypeScript & Type-Safe UI Contracts"   : "=======================================> [95%]",
+    "React & Next.js Architecture"          : "=====================================>   [90%]",
+    "PostgreSQL Row Level Security (RLS)"   : "=============================>         [85%]",
+    "Deno Edge & Lovable AI Integration"    : "==========================>            [80%]"
   }
 };
 ```
 
 ---
 
-### <span style="color: #bd93f9;"> Bento Box / 🍱 CURRENTLY TUNED INTO </span>
+### <span style="color: #bd93f9;"> Bento Box / 🍱 HOBBY SUBSYSTEMS </span>
 
-<!-- CLEAN TABLE COMPONENT FOR WATCHING/LISTENING HOOKS TO REPLACE UNSTABLE IMAGES -->
 <table width="100%" style="border-collapse: collapse; border: 1px solid #444;">
   <tr style="background-color: #1a1c23;">
     <td style="padding: 10px; border: 1px solid #444;" width="50%">
-      🎬 <span style="color: #ff79c6;"><b>WATCHING:</b></span> <code>Demon Slayer / Jujutsu Kaisen ⚔️</code>
+      🎬 <span style="color: #ff79c6;"><b>WATCHING:</b></span> <code>Kimetsu no Yaiba // Jujutsu Kaisen ⚔️</code>
     </td>
     <td style="padding: 10px; border: 1px solid #444;" width="50%">
-      🎧 <span style="color: #bd93f9;"><b>LISTENING:</b></span> <code>Midnight Tokyo Lo-Fi Beats 🌌</code>
+      🎧 <span style="color: #bd93f9;"><b>LISTENING:</b></span> <code>Midnight Tokyo City Pop / Lo-Fi 🌌</code>
     </td>
   </tr>
 </table>
 
 ---
 
-### <span style="color: #ff79c6;">🍱 ─── 【 🎐 REPOSITORY CHRONICLES 】 ───</span>
-
-<details style="border: 1px solid #ff79c6; border-radius: 6px; padding: 10px; background-color: #161622;">
-  <summary style="font-family: monospace; color: #ff79c6; cursor: pointer; font-weight: bold;">📜 <b>[ CLICK TO UNFURL HIDDEN SCROLL ARCHIVES ]</b></summary>
-  <br/>
-  <blockquote style="border-left: 3px solid #bd93f9; color: #a6adc8; margin: 0; padding-left: 10px;">
-    Welcome to the hidden terminal chambers! Feel free to dig through my public source files, clone active runtime experiments, or drop an Issue ticket if you want to leave an algorithmic mark on my developer wall.
-  </blockquote>
-</details>
-
----
+### <span style="color: #ff79c6;">📬 ─── 【 🏮 SUMMONING SCROLL // CONTACT 】 ───</span>
 
 <div align="center">
+
+` 📧 tanmay.trivedi.jp@gmail.com ` • ` 💼 LinkedIn / iTanmayTrivedi `
+
+<br/>
 
 ```text
  🏮 [ TERMINAL SESSION TERMINATED ] 🏮
  ─── ログアウト // SAYONARA ───
 ```
 
-<sub>Crafted with absolute professional minimalism. No external tracker servers required.</sub>
+<sub>Crafted with absolute intent. No third-party network image dependencies required.</sub>
 
 </div>
