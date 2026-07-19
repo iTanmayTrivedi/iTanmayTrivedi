@@ -1,109 +1,80 @@
-<div align="center">
-
-# <span style="color: #ff79c6;">🌌 ⛩️ ＴＡＮＭＡＹ’Ｓ　ＤＯＭＡＩＮ ⛩️ 🌌</span>
+# 🌌 【 ⛩️ ＴＡＮＭＡＹ’Ｓ　ＤＯＭＡＩＮ　ＥＸＰＡＮＳＩＯＮ ⛩️ 】 🌌
 
 ```text
- 🧭 CORE_SYSTEM: ACTIVE // STABLE   🔮 💜 🌸   📂 USER: iTanmayTrivedi
- ⚔️ DEV_CLASS  : FULL-STACK SHINOBI            🛠️ TERM: ARCH + NEOVIM
- 🌸 MAIN FOCUS : 用の美 // BEAUTY IN UTILITY     🦊 TARGET: TOKYO, JAPAN
+ 🧭 CORE_SYSTEM : ACTIVE // STABLE          🔮 THEME : TOKYO NIGHT / SAKURA NOIR
+ ⚔️ DEV_CLASS   : FULL-STACK SHINOBI        🛠️ RUNTIME: ARCH LINUX + NEOVIM TERMINAL
+ 🌸 DESIGN PARADIGM: 用の美 (YŌ-NO-BI)       🦊 MISSION: ARCHITECTING DEPLOYMENTS TO TOKYO
 ```
-
-` 👑 <span style="color: #bd93f9;">FULL-STACK ENGINEER</span> ` • ` ⚡ <span style="color: #ff79c6;">SYSTEM ARCHITECT</span> ` • ` 🍣 <span style="color: #bd93f9;">DESIGN ENGINEER</span> `
-
-<br/>
 
 *“The limits of my language mean the limits of my world. Detail is Respect.” — 継続的な学習と実装の積み重ね*
 
-</div>
-
 ---
 
-### <span style="color: #ff79c6;">🌸 ─── 【 🎴 CORE IDENTIFICATION MATRIX 】 ───</span>
+### 🎴 【 🌸 CHARACTER DATA-SHEET // PROFILE SYSTEM 】 ───
 
 ```yaml
 ❯ sudo systemctl status developer-profile.service
-● developer-profile.service - Tanmay Trivedi Domain Expansion
+● developer-profile.service - Tanmay Trivedi Core Architecture
      Loaded: active (running) since Epoch
      Status: "Architecting type-safe, bilingual applications & linear-grade web polish 🚀"
      Location: Kanpur, India (Targeting Tokyo engineering ecosystems)
      Aesthetic: "Neon Shinjuku Tech / Vermillion Shuiro over Sumi Slate (#1F2937) 🌌"
      Workspace: "Arch Linux + Neovim + Tmux + Ceremonial Matcha 🍵"
-     Philosophy: "用の美 (Yō-no-bi) — Uncompromising beauty discovered through absolute utility."
+     Core_Vibe: "Minimalist Shinjuku Cyberpunk // Cohesive Sakura Interface Accentuation"
 ```
 
-- 🏯 **The Craft:** Full-Stack Software Engineer deeply committed to clean system architectures, type-safe API designs, and deterministic, token-driven component systems.
-- 🧪 **Engineering Focus:** Scaling zero-dependency, ultra-lightweight client-side applications boasting 95+ Lighthouse metrics across performance, optimization, accessibility, and security protocols.
-- 💬 **Chitchat:** Talk to me about React execution lifecycles, database isolation layers, Row Level Security (RLS) policies, or complex anime narrative arcs.
-- 📂 **Summoning Scroll:** Explore my live interactive systems, full digital deck, and responsive layout projects directly at **[tanmaytrivedi.dev](https://tanmaytrivedi.dev)**.
+*   🏯 **The Engineering Craft:** Full-Stack Software Engineer deeply committed to clean system architectures, type-safe API designs, and deterministic, token-driven component trees.
+*   🧪 **Production Benchmarks:** Scaling zero-dependency, ultra-lightweight client-side applications boasting 95+ Lighthouse metrics across performance, optimization, accessibility, and security protocols.
+*   💬 **Chitchat Routing:** Talk to me about React execution lifecycles, database isolation layers, Row Level Security (RLS) policies, or complex anime narrative arcs.
+*   📂 **Summoning Scroll Link:** Explore my live interactive systems, full digital deck, and responsive layout projects directly at **[tanmaytrivedi.dev](https://tanmaytrivedi.dev)**.
 
 ---
 
-### <span style="color: #bd93f9;">📜 ─── 【 🗺️ CHRONOLOGICAL DEVELOPMENT JOURNEY 】 ───</span>
+### 📜 【 🔮 CHRONOLOGICAL DEVELOPMENT JOURNEY // THE TIE OF MUSUBI 】 ───
 
 ```text
- 🚀 [2024 INITIALIZATION ─ THE TIE OF MUSUBI] 
-  └───► Connected independent strings of data into cohesive full-stack architectures (Your Name).
-  └───► Mastered asynchronous processing, semantic document models, and component lifecycle trees.
+ 🚀 [2024 INITIALIZATION ─ THE TIE OF MUSUBI // 結び] 
+  └───► Connected independent strings of data into cohesive, braided full-stack architectures (Your Name).
+  └───► Mastered asynchronous processing timelines, semantic document structures, and component layout lifecycles.
 
- 🌸 [2025 MARCH ─ FOUNDATION QUEST ─ LYNT PARADIGM] 
-  └───► Launched LYNT (Founder & Solo Engineer) — Engineered entire multi-tier ecosystem end-to-end.
+ 🌸 [2025 MARCH ─ FOUNDATION QUEST ─ THE LYNT PARADIGM] 
+  └───► Launched LYNT (Founder & Solo Engineer) — Engineered entire multi-tier system end-to-end.
   └───► Developed pixel-accurate document rendering pipelines conforming to strict local print criteria.
 
- 🔮 [2025 JULY ─ HIGH-FIDELITY CONNECTIONS] 
-  └───► Service Scheduler: Designed interaction models focused on flawless communication patterns (A Silent Voice / Citrus).
-  └───► Integrated state synchronization models allowing concurrent updates without data pollution.
+ 🔮 [2025 JULY ─ HIGH-FIDELITY CONNECTIONS ─ THE SHAPE OF VOICE] 
+  └───► Service Scheduler: Designed interaction models focused on flawless, empathetic communication patterns (A Silent Voice).
+  └───► Crafted custom animation workflows separating subtle design textures from structural core logic (Citrus).
 
- 🏮 [2025 OCTOBER ─ SEIREITEI ENTERPRISE OVERHAUL] 
-  └───► Business Management System: Architected secure dashboard suites parsing administrative datasets.
-  └───► Isolated backend privileges using role-based operational gates resembling strict Soul Society clearance (Bleach).
+ 🏮 [2025 OCTOBER ─ GOTEI 13 ENTERPRISE OVERHAUL] 
+  └───► Business Management System: Architected secure dashboard suites parsing complex administrative datasets.
+  └───► Isolated backend privileges using role-based operational gates resembling strict Soul Society clearance protocols (Bleach).
 
  🍡 [2025 DECEMBER ─ THE INFINITE DATA CONSTRAINT] 
-  └───► E-Commerce Platform: Built transactional checkout flows featuring rigorous validation barriers.
-  └───► Optimized slow relational queries via comprehensive indexing strategies and execution plan analytics.
+  └───► E-Commerce Platform: Built transactional checkout flows featuring rigorous verification boundaries.
+  └───► Optimized slow relational queries via comprehensive indexing strategies and database query execution plan analytics.
 
- 🌌 [2026 FEBRUARY ─ THE BOUNDLESS BOUNDARY] 
+ 🌌 [2026 FEBRUARY ─ THE BOUNDLESS DOMAIN BOUNDARY] 
   └───► Multilingual SaaS Platforms: Deployed internationalization matrices that expand across edge nodes seamlessly.
-  └───► Configured unified telemetry logging capturing anomalies, error distributions, and memory pools.
+  └───► Configured unified telemetry logging capturing anomalies, error distributions, and system memory allocations.
 ```
 
 ---
 
-### <span style="color: #ff79c6;">⛩️ ─── 【 💎 SYSTEM CORE PRODUCTION SHOWCASE 】 ───</span>
+### ⛩️ 【 💎 PRODUCTION CORE SYSTEMS // S-RANK MISSIONS 】 ───
 
 #### 💮 LYNT.APP (FOUNDER & SOLO BUILD)
 > A production-grade, bilingual (EN/JP) decision & execution platform that solves the 40-60 hour research tax for relocating to Japan by compiling fragmented visa, structural, and corporate tracking engines.
 
-*   **Performance Metrics:** `Lighthouse: 92 / 98 / 100 / 100` | `Initial Bundle: 🧪 ─── 【 💮 DEPLOYED EXPERIMENTS & OPEN SOURCE 】 ───</span>
-
-*   🌸 **01 // Motion Playground (The Shape of Voice)**
-    *   A playground isolating performant Framer Motion animations. Focused on continuous scroll choreography, fluid layout transitions, spring physics mechanics, and hardware-accelerated rendering.
-    *   *Stack:* `React` • `Framer Motion` • `TypeScript`
-*   🌱 **02 // Shader Garden (Garganta Ink Dispersion)**
-    *   A compilation of highly optimized GLSL fragment shaders ported into React Three Fiber spaces. Implements noise field distribution matrices, liquid ink dispersion effects, and responsive pointer ripple physics.
-    *   *Stack:* `R3F` • `GLSL Shaders` • `WebGL`
-*   🎨 **03 // Type Specimen UI (The Musubi Pairing Matrix)**
-    *   An interactive, highly visual frontend module built to inspect variable typography pairings, kinetic text transformations, fluid content scaling layouts, and complex multi-script bilingual font distributions.
-    *   *Stack:* `CSS Variables` • `i18n Logic` • `Next.js`
-*   ⚡ **04 // Edge AI Schemas (The Cursed Energy Filters)**
-    *   Lightweight, minimalist open-source endpoints built on Deno infrastructure that stream real-time JSON contracts securely verified against runtime Zod schemas with zero client-side exposed tokens.
-    *   *Stack:* `Deno Runtime` • `AI Gateway` • `Zod Validators`
+*   **Performance Telemetry:** `Lighthouse: 92 / 98 / 100 / 100` | `Initial Bundle:  • JavaScript (ES6+) <br> • React.js (v18) <br> • Next.js Framework <br> • Vue.js Framework <br> • TailwindCSS <br> • Framer Motion <br> • WebGL Mechanics <br> • HTML5 / CSS3 | • Node.js Engine <br> • Python Automations <br> • Go Lang Basics <br> • PostgreSQL DB <br> • Row Level Security <br> • MongoDB Database <br> • Redis In-Memory <br> • RESTful API Design <br> • GraphQL Schema | • Docker Containers <br> • Kubernetes Clusters <br> • AWS Architecture <br> • GCP Infrastructure <br> • GitHub Actions <br> • CI/CD Pipelines <br> • Terraform IaC <br> • Linux CLI System <br> • Deno Networking | • Figma Environments <br> • Framer Prototyping <br> • UI/UX Blueprints <br> • Design Engineering <br> • Token Theming <br> • Kinetic Typography <br> • Component Composition <br> • Interaction Models <br> • Responsive Flow |
 
 ---
 
-### <span style="color: #ff79c6;">⚔️ ─── 【 💮 MASTERED JUTSUS // ARSENAL 】 ───</span>
-
-| 🌐 FRONTEND ART | ⚙️ BACKEND CORE | 🎛️ DEV_OPS & INFRA | 📐 DESIGN SYSTEMS |
-| :--- | :--- | :--- | :--- |
-| • TypeScript <br> • JavaScript (ES6+) <br> • React.js (v18) <br> • Next.js <br> • Vue.js <br> • TailwindCSS <br> • Framer Motion <br> • WebGL Mechanics <br> • HTML5 / CSS3 | • Node.js Engine <br> • Python Automations <br> • Go Lang Basics <br> • PostgreSQL DB <br> • Row Level Security <br> • MongoDB Database <br> • Redis In-Memory <br> • RESTful API Design <br> • GraphQL Schema | • Docker Containers <br> • Kubernetes Clusters <br> • AWS Architecture <br> • GCP Infrastructure <br> • GitHub Actions <br> • CI/CD Pipelines <br> • Terraform IaC <br> • Linux CLI System <br> • Deno Networking | • Figma Environments <br> • Framer Prototyping <br> • UI/UX Blueprints <br> • Design Engineering <br> • Token Theming <br> • Kinetic Typography <br> • Component Composition <br> • Interaction Models <br> • Responsive Flow |
-
----
-
-### <span style="color: #ff79c6;">📊 ─── 【 🏯 ENGINE METRICS // METRIC SUBSYSTEM 】 ───</span>
+### 📊 【 🏯 ENGINE TELEMETRY // STATISTICAL RADAR 】 ───
 
 ```typescript
 // System telemetry validated against active application performance criteria
 const telemetry: Object = {
-  domain_expansion_rate : "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 100% MAXIMUM",
+  domain_expansion_rate : "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 100% MAXIMUM_STABLE",
   runtime_mastery_index: {
     "Type-Driven Architecture & Scaled Contracts" : "=======================================> [95%]",
     "Component Decomposition & State Lifecycles" : "=====================================>   [90%]",
@@ -120,15 +91,24 @@ const telemetry: Object = {
 
 ---
 
-### <span style="color: #bd93f9;"> Bento Box / 🍱 HOBBY SUBSYSTEMS </span>
+### 🍱 【 🎐 HOBBY SUBSYSTEM METRICS 】 ───
 
-*   🎬 <span style="color: #ff79c6;">**WATCHING:**</span> `Kimetsu no Yaiba // Jujutsu Kaisen ⚔️`
-*   🎧 <span style="color: #bd93f9;">**LISTENING:**</span> `Midnight Tokyo City Pop / Lo-Fi 🌌`
+*   🎬 **Current Stream Tracker:** `Kimetsu no Yaiba // Jujutsu Kaisen ⚔️`
+*   🎧 **Active Audio Frequency:** `Midnight Tokyo City Pop // Night Drive Lo-Fi 🌌`
 
 ---
 
-### <span style="color: #ff79c6;">🍱 ─── 【 🎐 REPOSITORY CHRONICLES 】 ───</span>
+### 📦 【 🎐 REPOSITORY CHRONICLES 】 ───
 
-<details style="border: 1px solid #ff79c6; border-radius: 6px; padding: 10px; background-color: #161622;">
-  <summary style="font-family: monospace; color: #ff79c6; cursor: pointer; font-weight: bold;">📜 <b>[ CLICK TO UNFURL SECURE RUNTIME ARCHIVES ]</b></summary>
+<details style="padding: 10px; border: 1px dashed #444; border-radius: 4px;">
+  <summary style="font-family: monospace; cursor: pointer; font-weight: bold;">📜 <b>[ CLICK TO UNFURL SECURE RUNTIME ARCHIVES ]</b></summary>
   <br/>
+  <blockquote style="margin: 0; padding-left: 10px; border-left: 3px solid #ff79c6;">
+    Welcome to the hidden terminal chambers! Feel free to dig through my public source files, clone active runtime experiments, or drop an Issue ticket if you want to leave an algorithmic mark on my developer wall.
+  </blockquote>
+</details>
+
+---
+
+### 📬 【 🏮 SUMMONING SCROLL // CONNECT 】 ───
+
