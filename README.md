@@ -1,100 +1,104 @@
 <div align="center">
 
-# ⛩️ よ う こ そ — WELCOME TO MY DOMAIN ⛩️
+# 🌌 ⛩️ ＴＡＮＭＡＹ’Ｓ　ＤＯＭＡＩＮ ⛩️ 🌌
 
-```🌆
-   ______                                    ______     _                _ _ 
-  /_  __/___ _____  ____ ___  ____  __  __  /_  __/____(_)_   _____  ___/ (_)
-   / / / __ `/ __ \/ __ `__ \/ __ `/ / / /   / / / ___/ / / | / / _ \/ __  / / 
-  / / / /_/ / / / / / / / / / /_/ / /_/ /   / / / /  / / /| |/ /  __/ /_/ / /  
- /_/  \__,_/_/ /_/_/ /_/ /_/\__,_/\__, /   /_/ /_/  /_/_/ |___/\___/\__,_/_/   
-                                 /____/                                        
+```text
+ 🧭 CORE_SYSTEM: ACTIVE // STABLE   🔴 🟡 🟢   📂 USER: iTanmayTrivedi
+ ⚔️ DEV_CLASS  : FULL-STACK SHINOBI            🛠️ TERM: NEOVIM V0.10+
+ 🌸 LOCATION   : RETRO TOKYO METROPOLIS         🦊 MODE: RONIN // ACCEL
 ```
 
-` 🌌 FULL-STACK NINJA ` • ` 🦊 OPEN-SOURCE RONIN ` • ` 🎧 LO-FI CONSUMER `
+` 👑 SYSTEM ARCHITECT ` • ` ⚡ INTERFACE DESIGNER ` • ` 🍣 COGNITIVE OTOCU `
 
-🌸 *“The limits of my language mean the limits of my world.”* 🌸
+*“Vision without action is a daydream. Action without vision is a nightmare.” — 古い日本の諺*
 
 </div>
 
 ---
 
-### 🎴 CHARACTER STATS // 自己紹介
+### 🌸 ─── 【 🎴 CHARACTER DATASHEET 】 ───
 
 ```yaml
-[ PLAYER PROFILE ]
-  Name          : Tanmay Trivedi
-  Class         : Full-Stack Developer
-  Current Quest : "Mastering TypeScript & building beautiful UIs 🚀"
-  Current Anime : "Demon Slayer / Jujutsu Kaisen ⚔️"
-  Vibe Settings : "Retro Tokyo Midnight / Lo-Fi Japan 🌌"
-  Domain Scroll : "https://tanmaytrivedi.dev"
+❯ sudo systemctl status developer-profile.service
+● developer-profile.service - Tanmay Trivedi Core Architecture
+     Loaded: active (running) since Epoch
+     Status: "Architecting type-safe applications & beautiful terminal environments 🚀"
+     Fav_Show: "Demon Slayer (Kimetsu no Yaiba) // Jujutsu Kaisen ⚔️"
+     Aesthetic: "Neon Shinjuku Cyberpunk / Minimalist Kyoto Zen ✨"
+     Workspace: "Arch Linux + Neovim + Tmux + Ceremonial Matcha 🍵"
 ```
 
-* 🏯 **The Guild:** Deeply focused on scaling sleek personal projects and accessible web tools.
-* 🧪 **Alchemy Lab:** Experimenting with cutting-edge architectures using Next.js, WebGL, and TailwindCSS.
-* 💬 **Chitchat:** Ask me about React, performance tuning, or why the anime adaptation was better than the manga.
-* 📬 **Summoning Scroll:** Head over to **[tanmaytrivedi.dev](https://tanmaytrivedi.dev)** to see what I am actively crafting.
+- 🏯 **Current Guild:** Scaling robust engineering systems and high-fidelity user workflows.
+- 🧪 **Alchemy Lab:** Refining full-stack architectures utilizing modern web engines and type-safe systems.
+- 💬 **Chitchat:** Talk to me about React execution lifecycles, database layout strategy, or complex anime arcs.
+- 📂 **Summoning Scroll:** Inspect my digital interactive terminal deck directly at **[tanmaytrivedi.dev](https://tanmaytrivedi.dev)**.
 
 ---
 
-### ⚔️ MASTERED JUTSUS // TECH STACK
+### ⚔️ ─── 【 💮 MASTERED JUTSUS // ARSENAL 】 ───
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 FRONTEND ART</h4>
-      <ul>
-        <li><code>🔹 HTML5 / CSS3</code></li>
-        <li><code>🔹 JavaScript (ES6+)</code></li>
-        <li><code>🔹 TypeScript</code></li>
-        <li><code>🔹 React.js</code></li>
-        <li><code>🔹 Next.js</code></li>
-        <li><code>🔹 TailwindCSS</code></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎚️ BACKEND & NINJA TOOLS</h4>
-      <ul>
-        <li><code>🔸 Node.js / Express</code></li>
-        <li><code>🔸 PostgreSQL</code></li>
-        <li><code>🔸 MongoDB</code></li>
-        <li><code>🔸 Git / GitHub</code></li>
-        <li><code>🔸 Docker Containers</code></li>
-        <li><code>🔸 Linux Terminal</code></li>
-      </ul>
-    </td>
-  </tr>
+<table width="100%" style="border-collapse: collapse; border: 1px solid #333;">
+  <thead>
+    <tr style="background-color: #1a1c23;">
+      <th align="left" style="padding: 10px; border: 1px solid #333;">🌌 FRONTEND ENGINEERING ART</th>
+      <th align="left" style="padding: 10px; border: 1px solid #333;">⚙️ BACKEND & PROTOCOL ARCHITECTURE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" style="padding: 10px; border: 1px solid #333;">
+        • <b>Language Matrix:</b> <code>TypeScript (Advanced)</code>, <code>JavaScript (ES6+)</code><br/>
+        • <b>Core Engines:</b> <code>React.js Engineering</code>, <code>Next.js Production</code><br/>
+        • <b>Styling Grid:</b> <code>TailwindCSS Frameworks</code>, <code>Semantic HTML5 & CSS3</code><br/>
+        • <b>Visual Layers:</b> <code>Framer Motion Animations</code>, <code>Component Modularity</code>
+      </td>
+      <td valign="top" style="padding: 10px; border: 1px solid #333;">
+        • <b>Runtime Layer:</b> <code>Node.js Architecture</code>, <code>Express Web Servers</code><br/>
+        • <b>Database Storage:</b> <code>PostgreSQL (Relational)</code>, <code>MongoDB (NoSQL)</code><br/>
+        • <b>Sandbox Engine:</b> <code>Docker Containers</code>, <code>Linux OS Environments</code><br/>
+        • <b>Version Control:</b> <code>Distributed Git Pipelines</code>, <code>GitHub Workflow Automatons</code>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-### 📊 COMBAT METRICS // POWER LEVELS
+### 📊 ─── 【 🏯 ENGINE METRICS // COMBAT STATUS 】 ───
 
-```json
-{
-  "activity_level": "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 100%",
-  "skill_distribution": {
-    "TypeScript": "===============> [90%]",
-    "React/Next":  "=============>   [85%]",
-    "Node.js":     "=========>       [70%]",
-    "Databases":   "=======>         [60%]"
+```typescript
+const telemetry: Object = {
+  execution_activity_rate : "■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 100% MAXIMUM",
+  runtime_mastery_index: {
+    "TypeScript & Complex Logic" : "=======================================> [92%]",
+    "React & Next.js Ecosystems" : "=====================================>   [88%]",
+    "Node.js Backend Processing"  : "==============================>         [74%]",
+    "Database Matrix / Storage"   : "===========================>            [68%]"
   }
-}
+};
 ```
 
 ---
 
-### 🍱 CURRENTLY TUNED INTO
+### 🍱 ─── 【 🎐 REPOSITORY CHRONICLES 】 ───
 
-* **🎬 Streaming:** *Demon Slayer: Hashira Training Arc* (Crunchyroll)
-* **🎧 Listening:** *80s Retro Japanese City Pop / Midnight Lo-Fi* (Spotify)
+<details>
+  <summary style="font-family: monospace; color: #ff69b4; cursor: pointer; padding: 5px;">📜 <b>[ CLICK TO UNFURL HIDDEN SCROLL ARCHIVES ]</b></summary>
+  <br/>
+  <blockquote>
+    Welcome to the hidden terminal chambers! Feel free to dig through my public source files, clone active runtime experiments, or drop an Issue ticket if you want to leave an algorithmic mark on my developer wall.
+  </blockquote>
+</details>
 
 ---
 
 <div align="center">
-  <br />
-  <code>-- 🌌 END OF TRANSMISSION // ログアウト --</code>
-  <br />
-  <p><sub>Sayonara! Made with 💖 and Code.</sub></p>
+
+```text
+ 🏮 [ TERMINAL SESSION TERMINATED ] 🏮
+ ─── ログアウト // SAYONARA ───
+```
+
+<sub>Crafted with absolute professional minimalism. No external track servers required.</sub>
+
 </div>
