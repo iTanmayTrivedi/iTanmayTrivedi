@@ -2,8 +2,8 @@
 
 # ⛩️ ようこそ！ Welcome to Tanmay's Domain ⛩️
 
-<!-- STYLISH ANIME BANNER WITH AESTHETIC GRADIENT -->
-<img src="https://vercel.app" width="100%" alt="Anime Header Banner" />
+<!-- SECURE ALTERNATIVE DYNAMIC GRADIENT HEADER -->
+<img src="https://demolab.com" alt="Aesthetic Dynamic Header" />
 
 <br/>
 
@@ -13,8 +13,8 @@
 
 <br/>
 
-<!-- WORKING VISITOR COUNTER -->
-<img src="https://komarev.com" alt="Domain Visitors Tracker" />
+<!-- STABLE STATIC BADGE TO DISPLAY PROFILE VISITS -->
+<img src="https://shields.io" alt="Status Tracker" />
 
 </div>
 
@@ -40,17 +40,17 @@ identity:
 
 ### 🛠️ Ninja Tools & Jutsu (Tech Stack)
 
-<!-- RELIABLE DETACHED BADGES GRID THAT DOES NOT DEPEND ON SKILLICONS -->
+<!-- IMMUTABLE SHIELDS.IO UTILITY LAYOUT -->
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" />&nbsp;
+  <img src="https://shields.io" />&nbsp;
+  <img src="https://shields.io" />&nbsp;
+  <img src="https://shields.io" />&nbsp;
+  <img src="https://shields.io" />&nbsp;
+  <img src="https://shields.io" />&nbsp;
+  <img src="https://shields.io" />&nbsp;
+  <img src="https://shields.io" />&nbsp;
+  <img src="https://shields.io" />&nbsp;
   <img src="https://shields.io" />
 </p>
 
@@ -58,17 +58,9 @@ identity:
 
 ### 📊 Shinobi Statistics
 
-<!-- INDIVIDUAL BLOCKS TO INSURE INDEPENDENT RENDERING -->
+<!-- HIGH-AVAILABILITY LEAN CONTRIB GRAPH MATRIX THAT BPASSES THE DOWNTIME -->
 <p align="center">
-  <img height="170" src="https://vercel.app" alt="Tanmay's Stats" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://vercel.app" alt="Top Languages Mastered" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="Contribution Streak Tracker" />
+  <img width="100%" src="https://vercel.app" alt="Tanmay's Activity Chart" />
 </p>
 
 ---
@@ -76,14 +68,14 @@ identity:
 ### Bento Box / 🍱 Currently Playing & Watching
 
 <p align="left">
-  <img src="https://shields.io" alt="Watching Status" />
+  <img src="https://shields.io" alt="Watching Status" />&nbsp;
   <img src="https://shields.io" alt="Listening Status" />
 </p>
 
 ---
 
 <div align="center">
-  <!-- RELIABLE FALLBACK ANIME IMAGE EMBED -->
+  <!-- WORKING STABLE FOOTER ART PATH -->
   <img src="https://githubusercontent.com" width="50%" alt="Gojo Anime Footer" />
   <p><sub>Sayonara! Made with 💖 and Code.</sub></p>
 </div>
