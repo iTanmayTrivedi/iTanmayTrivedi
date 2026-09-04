@@ -5,7 +5,9 @@
 
 *"言葉より、コードで語る。"* — *Let the code speak louder than words.*
 
-**Kanpur, India → Japan** · Open to Bridge Engineer / Full-Stack roles · shinsotsu 2029
+![Location](https://img.shields.io/badge/Kanpur%2C_India_→_Japan-1a1a2e?style=flat-square&labelColor=1a1a2e&color=E94E1B)
+![Status](https://img.shields.io/badge/Open_to-Bridge_Engineer_/_Full--Stack_Roles-1a1a2e?style=flat-square&labelColor=1a1a2e&color=2c2c54)
+![JLPT](https://img.shields.io/badge/JLPT_N1-In_Progress-1a1a2e?style=flat-square&labelColor=1a1a2e&color=2c2c54)
 
 </div>
 
@@ -23,7 +25,7 @@ $ whoami
 <br>
 
 ### Contents
-[About](#about) · [Currently Building](#currently-building) · [Flagship Project](#flagship-project) · [Projects](#projects) · [By the Numbers](#by-the-numbers) · [How I Build](#how-i-build) · [Research](#research) · [Certifications](#certifications) · [Tech Stack](#tech-stack) · [Japan Journey](#japan-journey) · [Hobbies Corner](#hobbies-corner) · [Reach Me](#reach-me)
+[About](#about) · [Currently Building](#currently-building) · [Flagship Project](#flagship-project) · [Projects](#projects) · [By the Numbers](#by-the-numbers) · [How I Build](#how-i-build) · [Research](#research) · [Certifications](#certifications) · [Tech Stack](#tech-stack) · [Japan Journey](#japan-journey) · [Hobbies Corner](#hobbies-corner) · [GitHub Activity](#github-activity) · [Reach Me](#reach-me)
 
 <br>
 
@@ -140,12 +142,19 @@ Lead researcher and first author on a published bioinformatics paper at Rama Uni
 
 ## Tech Stack
 
-| Layer | Technologies |
-|---|---|
-| **Frontend** | React · Next.js · TypeScript · Tailwind CSS |
-| **Backend** | Node.js · PostgreSQL · Supabase · Redis · Go · MongoDB |
-| **Infrastructure** | Docker · AWS · CI/CD |
-| **AI / Tooling** | Gemini · Groq · Claude · GitHub Copilot |
+<div align="center">
+
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=339933)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-1a1a2e?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=flat-square&logo=amazonaws&logoColor=FF9900)
+
+</div>
 
 **Recurring engineering patterns across every project:** Row-Level Security on every public table · roles in a dedicated `user_roles` table with a `SECURITY DEFINER has_role()` function · server-side AI Edge Functions only · EN/日本語 parity enforced at the type level.
 
@@ -180,11 +189,28 @@ Outside of shipping code, I'm usually deep in an anime backlog:
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iTanmayTrivedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=E94E1B&icon_color=E94E1B)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iTanmayTrivedi&theme=tokyonight&hide_border=true&background=1a1a2e&ring=E94E1B&fire=E94E1B)
+
+</div>
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ## Reach Me
 
-- **Portfolio** → [tanmaytrivedi.dev](https://tanmaytrivedi.dev)
-- **LinkedIn** → [in/itanmaytrivedi](https://www.linkedin.com/in/itanmaytrivedi)
-- **Email** → [tanmay.trivedi.jp@gmail.com](mailto:tanmay.trivedi.jp@gmail.com)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-tanmaytrivedi.dev-1a1a2e?style=flat-square&logo=vercel&logoColor=white)](https://tanmaytrivedi.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-itanmaytrivedi-1a1a2e?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/itanmaytrivedi)
+[![Email](https://img.shields.io/badge/Email-tanmay.trivedi.jp-1a1a2e?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:tanmay.trivedi.jp@gmail.com)
+
+</div>
 
 <br>
 
