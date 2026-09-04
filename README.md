@@ -5,8 +5,7 @@
 
 *"言葉より、コードで語る。"* — *Let the code speak louder than words.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=iTanmayTrivedi&color=blueviolet&style=flat-square&label=Profile+Views)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Japan%20%F0%9F%87%AF%F0%9F%87%B5-success?style=flat-square)
+**Kanpur, India → Japan** · Open to Bridge Engineer / Full-Stack roles · shinsotsu 2029
 
 </div>
 
@@ -23,49 +22,51 @@ $ whoami
 
 <br>
 
-## 📎 About
-
-I'm a full-stack developer from Kanpur, India, completing a B.Tech in Biotechnology while building bilingual, production-grade software aimed squarely at the Japanese market. I'm preparing for JLPT N1 and targeting **Bridge Engineer / Full-Stack Developer** roles at Japanese tech companies ahead of my June 2029 graduation.
-
-Every project below ships with the same non-negotiables: full EN/日本語 parity, Postgres Row-Level Security on every public table, server-side AI (no exposed keys), and a demo that a recruiter can evaluate in under a minute — no signup required.
+### Contents
+[About](#about) · [Currently Building](#currently-building) · [Flagship Project](#flagship-project) · [Projects](#projects) · [By the Numbers](#by-the-numbers) · [How I Build](#how-i-build) · [Research](#research) · [Certifications](#certifications) · [Tech Stack](#tech-stack) · [Japan Journey](#japan-journey) · [Hobbies Corner](#hobbies-corner) · [Reach Me](#reach-me)
 
 <br>
 
-## 🌐 Currently Building
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## About
+
+I'm a full-stack developer from Kanpur, India, completing a B.Tech in Biotechnology while building bilingual, production-grade software aimed squarely at the Japanese market. I'm preparing for JLPT N1 and targeting **Bridge Engineer / Full-Stack Developer** roles at Japanese tech companies ahead of my June 2029 graduation.
+
+Every project below ships with the same non-negotiables: full EN/日本語 parity, Postgres Row-Level Security on every public table, server-side AI with no exposed keys, and a demo a recruiter can evaluate in under a minute — no signup required.
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## Currently Building
 
 **Lynt**
 Japan career & relocation SaaS — bilingual onboarding, a JIS-compliant Rirekisho builder, a 30+ visa-type eligibility engine, and AI-assisted resume tooling for international talent moving to Japan.
-
-`14+ onboarding routes` · `30+ visa types modeled` · `20+ production screens` · `6 RLS-secured tables`
-
-</td>
-<td width="50%" valign="top">
+`14+ onboarding routes` `30+ visa types modeled` `20+ production screens` `6 RLS-secured tables`
 
 **悠 Yuki AI — "Think Deeper."**
 A Japan-specialist bilingual AI assistant with multi-provider fallback, honorific register handling, and a custom intent classifier.
 
-</td>
-</tr>
-</table>
-
 <br>
 
-## 🏮 Flagship Project
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## Flagship Project
 
 ### 楽天市場 — Rakuten Ichiba, Reimagined
+
 A full-stack marketplace built to reproduce the patterns that make Japanese e-commerce structurally different from Western retail: points-first pricing, seller-first storefronts, information-dense layouts, and Japanese as the source of truth for every UI string.
 
-`React 18` · `TypeScript (strict)` · `Supabase` · `9 tables, 100% RLS coverage` · `23 bilingual routes` · `AI shopping assistant + seller/admin AI tools` · `Sub-1.5s first paint via mock-data fallback`
+`React 18` `TypeScript (strict)` `Supabase` `9 tables, 100% RLS coverage` `23 bilingual routes` `AI shopping assistant + seller/admin AI tools` `Sub-1.5s first paint via mock-data fallback`
 
 **[→ View the repo](https://github.com/iTanmayTrivedi/RakutenJapan)**
 
 <br>
 
-## 📁 Projects
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## Projects
 
 | Project | What it does | Highlights |
 |---|---|---|
@@ -78,13 +79,15 @@ A full-stack marketplace built to reproduce the patterns that make Japanese e-co
 | [**TeamHub**](https://github.com/iTanmayTrivedi/TeamManagementSystemJapan) | Bilingual team & task management platform | 3-role RBAC · AI daily summaries · UTF-8 BOM CSV export for Japanese Excel |
 | **[私の縁側 (Watashi no Engawa)](https://tanmaytrivedi.dev)** *(private repo)* | Personal portfolio built as an interactive slice-of-life narrative for Japanese recruiters | Lighthouse 96/100 · 100/100 Accessibility · 24 bespoke micro-interactions, 0 animation-runtime deps |
 
-> Repo links above follow my standard naming convention — happy to point directly to a specific one if you're reviewing.
+> Repo links follow my standard naming convention — happy to point directly to a specific one if you're reviewing.
 
 <br>
 
-## 📊 By the Numbers
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-*Rolled up across shipped production projects — not vanity metrics, counted directly from each build.*
+## By the Numbers
+
+*Rolled up across shipped production projects — counted directly from each build, not vanity metrics.*
 
 | Metric | Total |
 |---|---|
@@ -97,54 +100,60 @@ A full-stack marketplace built to reproduce the patterns that make Japanese e-co
 
 <br>
 
-## 🧭 How I Build
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## How I Build
 
 Patterns that show up in every project, not just the polished one:
 
 - **Security is a schema decision, not a UI afterthought.** Roles live in a dedicated `user_roles` table behind a `SECURITY DEFINER has_role()` function — never on the profile row — across every project, eliminating an entire class of privilege-escalation and RLS-recursion bugs by default.
 - **AI stays server-side, always.** Every AI feature is proxied through an Edge Function; no API key has ever shipped in a client bundle.
-- **Localization is a type-system problem.** EN/日本語 parity is enforced at compile time (typed translation keys, generated DB types) rather than checked by hand — drift gets caught before it ships.
+- **Localization is a type-system problem.** EN/日本語 parity is enforced at compile time — typed translation keys, generated DB types — rather than checked by hand, so drift gets caught before it ships.
 - **Demoability is a feature.** Every recruiter-facing project ships with a zero-signup demo mode, because a login wall is the easiest way to lose a 12-second first impression.
 - **Ship vertically, not wide.** Each project proves schema → API → UI → AI end-to-end rather than gluing together a wide, shallow feature set.
 
 <br>
 
-## 🔬 Research
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## Research
 
 Lead researcher and first author on a published bioinformatics paper at Rama University, with an accompanying tool built to support the research — bridging my biotechnology background with applied software engineering.
 
 <br>
 
-## 🧰 Tech Stack
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
+## Certifications
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
+| Certification | Provider |
+|---|---|
+| Foundational C# with Microsoft | freeCodeCamp |
+| AWS S3 Basics | Amazon Web Services |
+| Azure Cognitive Services | Microsoft |
+| MCP Advanced Topics | Anthropic |
+| Elements of AI | University of Helsinki |
 
 <br>
 
-## 📈 GitHub Activity
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
+## Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iTanmayTrivedi&show_icons=true&theme=default&hide_border=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iTanmayTrivedi&hide_border=true)
+| Layer | Technologies |
+|---|---|
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS |
+| **Backend** | Node.js · PostgreSQL · Supabase · Redis · Go · MongoDB |
+| **Infrastructure** | Docker · AWS · CI/CD |
+| **AI / Tooling** | Gemini · Groq · Claude · GitHub Copilot |
 
-</div>
+**Recurring engineering patterns across every project:** Row-Level Security on every public table · roles in a dedicated `user_roles` table with a `SECURITY DEFINER has_role()` function · server-side AI Edge Functions only · EN/日本語 parity enforced at the type level.
 
 <br>
 
-## 🎓 Japan Journey
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## Japan Journey
 
 ```
 📍 Kanpur, India → 🇯🇵 Japan (target: shinsotsu 2029)
@@ -155,7 +164,9 @@ Lead researcher and first author on a published bioinformatics paper at Rama Uni
 
 <br>
 
-## 🌸 Hobbies Corner
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## Hobbies Corner
 
 Outside of shipping code, I'm usually deep in an anime backlog:
 
@@ -167,15 +178,13 @@ Outside of shipping code, I'm usually deep in an anime backlog:
 
 <br>
 
-## 📫 Reach Me
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<div align="center">
+## Reach Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tanmaytrivedi.dev-black?style=for-the-badge&logo=vercel&logoColor=white)](https://tanmaytrivedi.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-iTanmayTrivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itanmaytrivedi)
-[![Gmail](https://img.shields.io/badge/Email-tanmay.trivedi.jp-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmay.trivedi.jp@gmail.com)
-
-</div>
+- **Portfolio** → [tanmaytrivedi.dev](https://tanmaytrivedi.dev)
+- **LinkedIn** → [in/itanmaytrivedi](https://www.linkedin.com/in/itanmaytrivedi)
+- **Email** → [tanmay.trivedi.jp@gmail.com](mailto:tanmay.trivedi.jp@gmail.com)
 
 <br>
 
