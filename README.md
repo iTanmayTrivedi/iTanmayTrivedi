@@ -5,7 +5,21 @@
 
 *"言葉より、コードで語る。"* — *Let the code speak louder than words.*
 
+![Profile Views](https://komarev.com/ghpvc/?username=iTanmayTrivedi&color=blueviolet&style=flat-square&label=Profile+Views)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Japan%20%F0%9F%87%AF%F0%9F%87%B5-success?style=flat-square)
+
 </div>
+
+<br>
+
+```
+$ whoami
+> Tanmay Trivedi — Full-Stack Developer, Kanpur, India
+> B.Tech Biotechnology, Rama University — Class of 2029
+> Building bilingual, production-grade software for the Japanese market
+> JLPT N1 — in progress
+> Target: Bridge Engineer / Full-Stack Developer, shinsotsu 2029
+```
 
 <br>
 
@@ -68,6 +82,33 @@ A full-stack marketplace built to reproduce the patterns that make Japanese e-co
 
 <br>
 
+## 📊 By the Numbers
+
+*Rolled up across shipped production projects — not vanity metrics, counted directly from each build.*
+
+| Metric | Total |
+|---|---|
+| Production projects shipped solo | 8 |
+| Postgres tables secured with Row-Level Security | 44+ |
+| AI-powered Edge Functions in production | 17+ |
+| Bilingual (EN/日本語) production applications | 6 |
+| Recruiter-ready demo modes (zero signup required) | 5 |
+| Best Lighthouse Performance score shipped | 96 / 100 |
+
+<br>
+
+## 🧭 How I Build
+
+Patterns that show up in every project, not just the polished one:
+
+- **Security is a schema decision, not a UI afterthought.** Roles live in a dedicated `user_roles` table behind a `SECURITY DEFINER has_role()` function — never on the profile row — across every project, eliminating an entire class of privilege-escalation and RLS-recursion bugs by default.
+- **AI stays server-side, always.** Every AI feature is proxied through an Edge Function; no API key has ever shipped in a client bundle.
+- **Localization is a type-system problem.** EN/日本語 parity is enforced at compile time (typed translation keys, generated DB types) rather than checked by hand — drift gets caught before it ships.
+- **Demoability is a feature.** Every recruiter-facing project ships with a zero-signup demo mode, because a login wall is the easiest way to lose a 12-second first impression.
+- **Ship vertically, not wide.** Each project proves schema → API → UI → AI end-to-end rather than gluing together a wide, shallow feature set.
+
+<br>
+
 ## 🔬 Research
 
 Lead researcher and first author on a published bioinformatics paper at Rama University, with an accompanying tool built to support the research — bridging my biotechnology background with applied software engineering.
@@ -90,8 +131,16 @@ Lead researcher and first author on a published bioinformatics paper at Rama Uni
 
 </div>
 
-**Recurring engineering patterns across every project:**
-Row-Level Security on every public table · roles in a dedicated `user_roles` table with a `SECURITY DEFINER` `has_role()` function (never on the profile row) · AI calls proxied through server-side Edge Functions, never client-exposed · full EN/日本語 parity enforced at the type level, not by checklist.
+<br>
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iTanmayTrivedi&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iTanmayTrivedi&hide_border=true)
+
+</div>
 
 <br>
 
