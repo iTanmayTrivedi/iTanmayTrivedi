@@ -1,19 +1,32 @@
 <div align="center">
 
-# Tanmay Trivedi
-### Full-Stack Developer building production-grade software for the Japanese market
+<img src="banner.svg" alt="田丸 環 · Tanmay Trivedi — Full-Stack Developer"/>
 
-*"言葉より、コードで語る。"* — *Let the code speak louder than words.*
+<a href="https://tanmaytrivedi.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=E8577F&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+building+production-grade+software+for+Japan;%E6%82%A0+Yuki+AI+%E2%80%94+a+bilingual+Japan-specialist+chatbot;Lynt+%E2%80%94+live+Japan+career+%26+visa+intelligence;%E8%A8%80%E8%91%89%E3%82%88%E3%82%8A%E3%80%81%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E8%AA%9E%E3%82%8B%E3%80%82" alt="Typing SVG"/>
+</a>
 
-![Location](https://img.shields.io/badge/Kanpur%2C_India_→_Japan-1a1a2e?style=flat-square&labelColor=1a1a2e&color=E94E1B)
-![Status](https://img.shields.io/badge/Open_to-Bridge_Engineer_/_Full--Stack_Roles-1a1a2e?style=flat-square&labelColor=1a1a2e&color=2c2c54)
-![JLPT](https://img.shields.io/badge/JLPT_N1-In_Progress-1a1a2e?style=flat-square&labelColor=1a1a2e&color=2c2c54)
+<br/>
+
+![Location](https://img.shields.io/badge/📍_Kanpur,_India_→_Japan-e2607d?style=for-the-badge&labelColor=14233f)
+![Open to](https://img.shields.io/badge/Open_to-Bridge_Engineer_/_Full--Stack_Roles-3fb7e8?style=for-the-badge&labelColor=14233f)
+![JLPT](https://img.shields.io/badge/JLPT_N1-In_Progress-e2607d?style=for-the-badge&labelColor=14233f)
+
+[![Portfolio](https://img.shields.io/badge/⛩_Portfolio-tanmaytrivedi.dev-e2607d?style=for-the-badge&labelColor=14233f)](https://tanmaytrivedi.dev)
+[![Email](https://img.shields.io/badge/💌_Email-Say_hello-3fb7e8?style=for-the-badge&labelColor=14233f)](mailto:tanmay.trivedi.jp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/in_LinkedIn-Connect-e2607d?style=for-the-badge&labelColor=14233f)](https://www.linkedin.com/in/itanmaytrivedi)
+
+<img src="divider.svg" alt=""/>
+
+<img src="dialogue.svg" alt="はじめまして！ I'm Tanmay — 田丸 環. I build Japan-focused products: Lynt and 悠 Yuki AI. Next chapters: JLPT N1 in July 2027, then Japan in 2029."/>
+
+<img src="divider.svg" alt=""/>
 
 </div>
 
-<br>
+## ☀️ &nbsp;自己紹介 · About
 
-```
+```text
 $ whoami
 > Tanmay Trivedi — Full-Stack Developer, Kanpur, India
 > B.Tech Biotechnology, Rama University — Class of 2029
@@ -22,201 +35,97 @@ $ whoami
 > Target: Bridge Engineer / Full-Stack Developer, shinsotsu 2029
 ```
 
-<br>
+I started in biotechnology and ended up building software for Japan. I work solo end to end: design, database, deploy, and the Japanese localization most teams leave for last.
 
-### Contents
-[About](#about) · [Currently Building](#currently-building) · [Flagship Project](#flagship-project) · [Projects](#projects) · [By the Numbers](#by-the-numbers) · [How I Build](#how-i-build) · [Research](#research) · [Certifications](#certifications) · [Tech Stack](#tech-stack) · [Japan Journey](#japan-journey) · [Hobbies Corner](#hobbies-corner) · [GitHub Activity](#github-activity) · [Reach Me](#reach-me)
+<div align="center"><img src="divider.svg" alt=""/></div>
 
-<br>
+## 🍙 &nbsp;いまのわたし · Right Now
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- 📖 Studying for **JLPT N1** (sitting July 2027)
+- 🛠️ Building **Lynt** and **悠 Yuki AI**
+- 🎯 Aiming for a **shinsotsu** role in Japan, class of 2029
 
-## About
+<div align="center"><img src="divider.svg" alt=""/></div>
 
-I'm a full-stack developer from Kanpur, India, completing a B.Tech in Biotechnology while building bilingual, production-grade software aimed squarely at the Japanese market. I'm preparing for JLPT N1 and targeting **Bridge Engineer / Full-Stack Developer** roles at Japanese tech companies ahead of my June 2029 graduation.
-
-Every project below ships with the same non-negotiables: full EN/日本語 parity, Postgres Row-Level Security on every public table, server-side AI with no exposed keys, and a demo a recruiter can evaluate in under a minute — no signup required.
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## Currently Building
-
-**Lynt**
-Japan career & relocation SaaS — bilingual onboarding, a JIS-compliant Rirekisho builder, a 30+ visa-type eligibility engine, and AI-assisted resume tooling for international talent moving to Japan.
-`14+ onboarding routes` `30+ visa types modeled` `20+ production screens` `6 RLS-secured tables`
-
-**悠 Yuki AI — "Think Deeper."**
-A Japan-specialist bilingual AI assistant with multi-provider fallback, honorific register handling, and a custom intent classifier.
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## Flagship Project
-
-### 楽天市場 — Rakuten Ichiba, Reimagined
-
-A full-stack marketplace built to reproduce the patterns that make Japanese e-commerce structurally different from Western retail: points-first pricing, seller-first storefronts, information-dense layouts, and Japanese as the source of truth for every UI string.
-
-`React 18` `TypeScript (strict)` `Supabase` `9 tables, 100% RLS coverage` `23 bilingual routes` `AI shopping assistant + seller/admin AI tools` `Sub-1.5s first paint via mock-data fallback`
-
-**[→ View the repo](https://github.com/iTanmayTrivedi/RakutenJapan)**
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## Projects
-
-| Project | What it does | Highlights |
-|---|---|---|
-| [**Rakuten Reimagined**](https://github.com/iTanmayTrivedi/RakutenJapan) | Bilingual e-commerce marketplace clone with multi-role auth and AI shopping/seller tools | 23 routes · 9 RLS-secured tables · AI shopping assistant, SEO copy, BI insights |
-| **Lynt** *(private)* | Bilingual career & relocation OS for international talent moving to Japan | JIS-compliant Rirekisho builder · 30+ visa types · 0–100 Readiness Score engine |
-| **悠 Yuki AI** *(private)* | Japan-specialist bilingual AI assistant | Multi-provider fallback · honorific register handling · custom intent classifier |
-| [**BookFlow**](https://github.com/iTanmayTrivedi/ServiceScheduleJapan) | Bilingual appointment & reservation platform with AI-assisted scheduling | 0.8s median TTI · AI no-show prediction · zero-signup Demo Mode |
-| [**Kaizen**](https://github.com/iTanmayTrivedi/GlobalSaaSDashboardJapan) | Multi-tenant bilingual AI operations platform for Japanese business teams | 7 AI tools behind one gateway · 1,200+ EN/JP string pairs · keigo checker |
-| [**SysMonitor**](https://github.com/iTanmayTrivedi/SystemMonitoringJapan) | Real-time observability platform with AI-assisted incident diagnostics | <800ms first paint · 60fps under 500 logs/sec · AI root-cause analysis |
-| [**TeamHub**](https://github.com/iTanmayTrivedi/TeamManagementSystemJapan) | Bilingual team & task management platform | 3-role RBAC · AI daily summaries · UTF-8 BOM CSV export for Japanese Excel |
-| **[私の縁側 (Watashi no Engawa)](https://tanmaytrivedi.dev)** *(private repo)* | Personal portfolio built as an interactive slice-of-life narrative for Japanese recruiters | Lighthouse 96/100 · 100/100 Accessibility · 24 bespoke micro-interactions, 0 animation-runtime deps |
-
-> Repo links follow my standard naming convention — happy to point directly to a specific one if you're reviewing.
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## By the Numbers
-
-*Rolled up across shipped production projects — counted directly from each build, not vanity metrics.*
-
-| Metric | Total |
-|---|---|
-| Production projects shipped solo | 8 |
-| Postgres tables secured with Row-Level Security | 44+ |
-| AI-powered Edge Functions in production | 17+ |
-| Bilingual (EN/日本語) production applications | 6 |
-| Recruiter-ready demo modes (zero signup required) | 5 |
-| Best Lighthouse Performance score shipped | 96 / 100 |
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## How I Build
-
-Patterns that show up in every project, not just the polished one:
-
-- **Security is a schema decision, not a UI afterthought.** Roles live in a dedicated `user_roles` table behind a `SECURITY DEFINER has_role()` function — never on the profile row — across every project, eliminating an entire class of privilege-escalation and RLS-recursion bugs by default.
-- **AI stays server-side, always.** Every AI feature is proxied through an Edge Function; no API key has ever shipped in a client bundle.
-- **Localization is a type-system problem.** EN/日本語 parity is enforced at compile time — typed translation keys, generated DB types — rather than checked by hand, so drift gets caught before it ships.
-- **Demoability is a feature.** Every recruiter-facing project ships with a zero-signup demo mode, because a login wall is the easiest way to lose a 12-second first impression.
-- **Ship vertically, not wide.** Each project proves schema → API → UI → AI end-to-end rather than gluing together a wide, shallow feature set.
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## Research
-
-Lead researcher and first author on a published bioinformatics paper at Rama University, with an accompanying tool built to support the research — bridging my biotechnology background with applied software engineering.
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## Certifications
-
-| Certification | Provider |
-|---|---|
-| Foundational C# with Microsoft | freeCodeCamp |
-| AWS S3 Basics | Amazon Web Services |
-| Azure Cognitive Services | Microsoft |
-| MCP Advanced Topics | Anthropic |
-| Elements of AI | University of Helsinki |
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## Tech Stack
+## 🌸 &nbsp;制作物 · Projects
 
 <div align="center">
-
-![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=3178C6)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Supabase](https://img.shields.io/badge/Supabase-1a1a2e?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=flat-square&logo=amazonaws&logoColor=FF9900)
-
+<a href="https://tanmaytrivedi.dev">
+  <img src="projects.svg" alt="Lynt, Yuki AI, TeamHub, BookFlow — full case studies at tanmaytrivedi.dev"/>
+</a>
+<br/>
+<sub>Full case studies → <a href="https://tanmaytrivedi.dev"><b>tanmaytrivedi.dev</b></a></sub>
 </div>
 
-**Recurring engineering patterns across every project:** Row-Level Security on every public table · roles in a dedicated `user_roles` table with a `SECURITY DEFINER has_role()` function · server-side AI Edge Functions only · EN/日本語 parity enforced at the type level.
+<div align="center"><img src="divider.svg" alt=""/></div>
 
-<br>
+## 🧬 &nbsp;研究 · Research
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I'm lead researcher and first author on a published paper from Rama University, and I built a bioinformatics tool alongside it. Biology gave me the habit of testing what I claim, and I bring that to my engineering.
 
-## Japan Journey
+<div align="center"><img src="divider.svg" alt=""/></div>
 
-```
-📍 Kanpur, India → 🇯🇵 Japan (target: shinsotsu 2029)
-🈺 JLPT N1 — in progress
-🎯 Bridge Engineer / Full-Stack Developer track
-📚 B.Tech Biotechnology, Rama University — Class of 2029
-```
+## 🎴 &nbsp;資格 · Certifications
 
-<br>
+- **Foundational C# with Microsoft** — freeCodeCamp
+- **AWS S3 Basics**
+- **Azure Cognitive Services**
+- **MCP Advanced Topics** — Anthropic
+- **Elements of AI** — University of Helsinki
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="center"><img src="divider.svg" alt=""/></div>
 
-## Hobbies Corner
-
-Outside of shipping code, I'm usually deep in an anime backlog:
-
-- 呪術廻戦 — **Jujutsu Kaisen**
-- **Citrus**
-- **BLEACH**
-- 鬼滅の刃 — **Demon Slayer**
-- 彼女、お借りします — **Kanojo, Okarishimasu (Rent-a-Girlfriend)**
-
-<br>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## GitHub Activity
+## 🪐 &nbsp;技術の軌道 · Tech Stack
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iTanmayTrivedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=E94E1B&icon_color=E94E1B)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iTanmayTrivedi&theme=tokyonight&hide_border=true&background=1a1a2e&ring=E94E1B&fire=E94E1B)
-
+<img src="orbit.svg" alt="Skill orbit: React, Next.js, Vite, Tailwind, TypeScript, Supabase, PostgreSQL, Redis, Node.js, Go, Groq, Llama 3.3, Docker, AWS, Vercel, GitHub Actions"/>
 </div>
 
-<br>
+<details>
+<summary><b>📋 &nbsp;Full stack, as a list</b></summary>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br/>
 
-## Reach Me
+| | |
+| :-- | :-- |
+| 🎨 **Frontend** | React · Next.js · Vite · TypeScript · Tailwind · shadcn/ui · Framer Motion |
+| ⚙️ **Backend & Data** | Node.js · Go · PostgreSQL · MongoDB · Redis · Supabase (Auth, Realtime, Edge Functions) |
+| 🧠 **AI** | Groq · Llama 3.3 70B · bilingual, honorific-aware prompt design |
+| 🚀 **Ship** | Docker · AWS · Vercel · CI/CD · GitHub Actions |
+
+</details>
+
+<div align="center"><img src="divider.svg" alt=""/></div>
+
+## ✈️ &nbsp;日本への道 · Japan Journey
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-tanmaytrivedi.dev-1a1a2e?style=flat-square&logo=vercel&logoColor=white)](https://tanmaytrivedi.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-itanmaytrivedi-1a1a2e?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/itanmaytrivedi)
-[![Email](https://img.shields.io/badge/Email-tanmay.trivedi.jp-1a1a2e?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:tanmay.trivedi.jp@gmail.com)
-
+<img src="journey.svg" alt="Flight path: Kanpur 2026 → JLPT N1 July 2027 → B.Tech graduation June 2029 → Tokyo / Osaka 2029"/>
 </div>
 
-<br>
+<div align="center"><img src="divider.svg" alt=""/></div>
+
+## 🍡 &nbsp;趣味 · Hobbies Corner
+
+Slice-of-life and romance anime are my comfort genre, with *Jujutsu Kaisen*, *Bleach* and *Demon Slayer* for when I want something louder. I put Japanese culture into my products because I care about it, and that shows up in the details.
+
+<div align="center"><img src="divider.svg" alt=""/></div>
+
+## 💌 &nbsp;連絡先 · Reach Me
 
 <div align="center">
 
-*「一目で分かる、本気で作る。」*
-*Built to be understood at a glance — made with real intent.*
+I'm looking for **product-led Japanese teams** that value craft, bilingual delivery, and shipping over ceremony.
+
+### **design → Postgres → ship → measure → 日本語化**
+
+[![Email me](https://img.shields.io/badge/💌_tanmay.trivedi.jp@gmail.com-e2607d?style=for-the-badge&labelColor=14233f)](mailto:tanmay.trivedi.jp@gmail.com)
+[![Portfolio & Resume](https://img.shields.io/badge/📄_Portfolio_%26_Resume-3fb7e8?style=for-the-badge&labelColor=14233f)](https://tanmaytrivedi.dev)
+[![LinkedIn](https://img.shields.io/badge/in_LinkedIn-itanmaytrivedi-e2607d?style=for-the-badge&labelColor=14233f)](https://www.linkedin.com/in/itanmaytrivedi)
+
+<br/>
+<img src="footer.svg" alt="また会いましょう · See you in Japan"/>
+<br/>
+<sub><i>「改善は毎日の小さな一歩から。」 Improvement is built one quiet commit at a time.</i></sub>
 
 </div>
