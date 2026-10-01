@@ -42,7 +42,7 @@ I started in biotechnology and ended up building software for Japan. I work solo
 ## 🚉 &nbsp;いまのわたし · Right Now
 
 <div align="center">
-<img src="station.svg" alt="Departures board: NOW — Lynt and Yuki AI, live. JUL 2027 — JLPT N1, in progress. 2029 — Shinsotsu to Tokyo / Osaka, target."/>
+<img src="Station.svg" alt="Departures board: NOW — Lynt and Yuki AI, live. JUL 2027 — JLPT N1, in progress. 2029 — Shinsotsu to Tokyo / Osaka, target."/>
 </div>
 
 <div align="center"><img src="divider.svg" alt=""/></div>
@@ -68,7 +68,7 @@ I'm lead researcher and first author on a published paper from Rama University, 
 ## 🎴 &nbsp;資格 · Certifications
 
 <div align="center">
-<img src="certs.svg" alt="Certification omamori charms: Foundational C# (freeCodeCamp), AWS S3 Basics, Azure Cognitive Services, MCP Advanced Topics (Anthropic), Elements of AI (University of Helsinki)"/>
+<img src="Certs.svg" alt="Certification omamori charms: Foundational C# (freeCodeCamp), AWS S3 Basics, Azure Cognitive Services, MCP Advanced Topics (Anthropic), Elements of AI (University of Helsinki)"/>
 </div>
 
 <details>
@@ -126,18 +126,18 @@ Slice-of-life and romance anime are my comfort genre, with *Jujutsu Kaisen*, *Bl
 
 <div align="center">
 
-<a href="mailto:tanmay.trivedi.jp@gmail.com"><img src="ema.svg" alt="Ema plaques: Wish — work in Japan, 2029. Contact — tanmay.trivedi.jp@gmail.com. 一期一会."/></a>
+<a href="mailto:tanmay.trivedi.jp@gmail.com"><img src="Ema.svg" alt="Ema plaques: Wish — work in Japan, 2029. Contact — tanmay.trivedi.jp@gmail.com. 一期一会."/></a>
 
 I'm looking for **product-led Japanese teams** that value craft, bilingual delivery, and shipping over ceremony.
 
 ### **design → Postgres → ship → measure → 日本語化**
 
 <a href="mailto:tanmay.trivedi.jp@gmail.com">
-  <img src="vending.svg" alt="Vending machine of roles I am open to: Bridge Engineer, Full Stack Engineer, Web Developer, Software Engineer, Back End Developer. Press HIRE ME to email."/>
+  <img src="Vending.svg" alt="Vending machine of roles I am open to: Bridge Engineer, Full Stack Engineer, Web Developer, Software Engineer, Back End Developer. Press HIRE ME to email."/>
 </a>
 
 <a href="mailto:tanmay.trivedi.jp@gmail.com">
-  <img src="postbox.svg" alt="お手紙をどうぞ — drop me a line at tanmay.trivedi.jp@gmail.com"/>
+  <img src="Postbox.svg" alt="お手紙をどうぞ — drop me a line at tanmay.trivedi.jp@gmail.com"/>
 </a>
 
 [![Email me](https://img.shields.io/badge/💌_tanmay.trivedi.jp@gmail.com-e2607d?style=for-the-badge&labelColor=14233f)](mailto:tanmay.trivedi.jp@gmail.com)
