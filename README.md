@@ -61,7 +61,7 @@ I started in biotechnology and ended up building software for Japan. I work solo
 
 ## 🧬 &nbsp;研究 · Research
 
-I'm lead researcher and first author on a published paper from Rama University, and I built a bioinformatics tool alongside it. Biology gave me the habit of testing what I claim, and I bring that to my engineering.
+I'm lead researcher and first author working on a research for Cancer Bioinformatics from Rama University, and I built a bioinformatics tool alongside it. Biology gave me the habit of testing what I claim, and I bring that to my engineering.
 
 <div align="center"><img src="divider.svg" alt=""/></div>
 
